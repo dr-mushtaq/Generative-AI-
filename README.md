@@ -2,7 +2,7 @@
 
 Learn **Generative AI from scratch** with hands-on Python code, **Large Language Models (LLMs)**, prompt engineering, fine-tuning, Retrieval-Augmented Generation (RAG), AI agents, multimodal models, quizzes, and real-world projects — all organized in **one complete GitHub repository**.
 
-⭐ If you found this helpful, please **star** the repo to help others discover these tutorials.
+## ⭐ If you found this helpful, please **star** the repo to help others discover these tutorials.
 
 ---
 
@@ -25,6 +25,7 @@ This repository covers the full **Generative AI ecosystem**, including:
 - Real-world Generative AI applications
 
 Whether you're building **ChatGPT-like apps**, **document chatbots**, **AI copilots**, or **autonomous agents**, this repo is your **A-to-Z Generative AI guide**.
+
 
 **Keywords:**  
 generative ai course, llm with python, prompt engineering, rag pipeline, ai agents, generative ai github repository, free generative ai resources
