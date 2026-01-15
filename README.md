@@ -91,27 +91,6 @@ Submit blogs, videos, tools, or research papers.
 - Translate content into other languages
 - Create videos from blogs
 
----
-
-## 🎓 Enrolled Courses (Generative AI)
-
-Strengthen your **Generative AI knowledge and practical skills**:
-
-- Basics of Generative AI & LLMs  
-- Prompt Engineering & RAG Systems  
-- Building AI Agents with Tools  
-
-
-## 📬 Stay Updated with Weekly Generative AI Lessons!
-
-Get weekly updates on:
-- LLM advancements
-- Prompt engineering techniques
-- RAG & agent frameworks
-- Real-world GenAI case studies
-
-👉 **Subscribe to our Generative AI Newsletter**
-
 ## 🧠 Course Roadmap (Preview)
 
 ### 🔹 Chapter 1: Foundations of Generative AI
