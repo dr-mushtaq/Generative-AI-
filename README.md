@@ -34,13 +34,6 @@ generative ai course, llm with python, prompt engineering, rag pipeline, ai agen
 
 ## ⭐ Why This Repository Is Your Best Generative AI Learning Hub
 
-**Keywords:**  
-generative ai course, llm with python, prompt engineering, rag pipeline, ai agents, generative ai github repository, free generative ai resources
-
----
-
-## ⭐ Why This Repository Is Your Best Generative AI Learning Hub
-
 1. 🧠 **End-to-End Learning**  
    From GenAI basics to advanced agentic and multimodal systems.
 
@@ -108,19 +101,6 @@ Strengthen your **Generative AI knowledge and practical skills**:
 - Prompt Engineering & RAG Systems  
 - Building AI Agents with Tools  
 
-⭐ Star this repo if it helps you learn Generative AI!
-
----
-
-## 🌍 Join Our Community
-
-- 🎥 YouTube — Generative AI Tutorials  
-- 📝 Blogs — LLMs, RAG, Agents  
-- 💼 LinkedIn — AI Updates  
-- 📘 Facebook — Learning Community  
-- 💬 WhatsApp — Discussion Group  
-
----
 
 ## 📬 Stay Updated with Weekly Generative AI Lessons!
 
@@ -131,8 +111,6 @@ Get weekly updates on:
 - Real-world GenAI case studies
 
 👉 **Subscribe to our Generative AI Newsletter**
-
----
 
 ## 🧠 Course Roadmap (Preview)
 
@@ -198,63 +176,8 @@ Get weekly updates on:
 You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
 
 
-## 📚 Table of Contents
-- [Introduction](#1-introduction)
-- [Why Join This Course?](#-Why-Join-This-Course?)
-- [How to Get Involved](#how-to-get-involved-in-the-computer-vision-project)
-- [Chapters Overview](#course-01---introduction-of-computer-vision)
-- [Computer Vision Resources](#computer-vision-resources)
 
 
- ## **⭐ Why This Repository Is Your Best Computer Vision Learning Hub**
- 
-1.  📸 End-to-End Learning: Master the full spectrum of computer vision — from image basics and filters to deep learning, object detection, and segmentation.
-
-2. 🛠 Practical Implementation: Each topic includes hands-on coding exercises, Jupyter notebooks, and real-world projects.
-
-3. 🌍 Collaborative Development: Join a global community of learners, developers, and researchers. Contribute on GitHub through pull requests, discussions, and issue tracking..
-
-4. 🤖 Cutting-Edge Tech Stack: Stay at the forefront with tools like CNNs, YOLO, OpenCV, Vision Transformers, and more — all integrated with AI-powered workflows.
-
-![GitHub stars](https://img.shields.io/github/stars/hussain0048/Computer-Vision)
-![GitHub forks](https://img.shields.io/github/forks/hussain0048/Computer-Vision)
-
-
-## **💡 How to Get Involved in the Computer Vision Project?**
-
-🚀 **Fork & Star the Repo**:Show your support and stay updated — fork the repository and give it a ⭐ on GitHub!
-
-👩‍💻 **Dive Into Structured Lessons**: Start learning with well-organized, beginner-to-advanced tutorials curated to help you build real skills step by step.
-
-🛠️ **Contribute to Code & Content**:Enhance existing blogs, refine code, fix bugs, or write new tutorials on exciting computer vision topics.
-
-🧪 **Experiment & Innovate**:Use the provided codebase as your playground — tweak, test, and explore to discover something new.
-
-🤝 **Collaborate with the Community**:Join discussions, review PRs, and team up with fellow developers, students, and AI enthusiasts around the world.
-
-📌 **Share Your Knowledge**:Submit your own implementations, mini-projects, or useful resources like blogs, website, videos, GitHub repos, and research papers etc.
-
-Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursesteach-mv5si)
-
-## 🛠️ We're Actively Looking for Contributors To:
-- Add new tutorials (Python, OpenCV, YOLO, etc.)
-- Convert lessons into interactive Colab notebooks
-- Fix broken links and typos
-- Translate lessons into other languages (e.g., Urdu, Spanish)
-- Add quizzes or solutions
-- improve the current blog
-- suggestion other important website ,repistory,youtube Channel etc
-- Create blog from next topic in our jounrney 
-- Suggest new topics or Video ,Course
-- Create Video from blog
-
-## 🎓 **Enrolled Courses**
-
-Please enrolled in the following courses to strengthen knowledge and practical skills in Computer Vision. These courses are designed to provide both theoretical understanding and hands-on experience with real-world Computer Vision applications.
-
-🔗 [**Basic of Computer Vision**l](https://coursesteach.com/course/view.php?id=133)
-
-Star this repo if you find it useful ⭐
 
 ## **🌍 Join Our Community**
 
