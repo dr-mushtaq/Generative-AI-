@@ -1,8 +1,43 @@
- ## **👁️ Computer Vision with Python & OpenCV — The Ultimate A‑to‑Z Learning Repository**
- 
-Learn Computer Vision from scratch with hands‑on Python code, OpenCV tutorials, deep‑learning projects, quizzes, and real‑world mini‑projects — all organized in one complete GitHub repository.
+# 🤖 Generative AI with Python & LLMs — The Ultimate A-to-Z Learning Repository
 
-Optimize your learning journey with a structured, SEO‑friendly, and contributor‑ready Computer Vision roadmap.
+Learn **Generative AI from scratch** with hands-on Python code, **Large Language Models (LLMs)**, prompt engineering, fine-tuning, Retrieval-Augmented Generation (RAG), AI agents, multimodal models, quizzes, and real-world projects — all organized in **one complete GitHub repository**.
+
+⭐ If you found this helpful, please **star** the repo to help others discover these tutorials.
+
+---
+
+## 🚀 Introduction
+
+Welcome to a **complete Generative AI learning hub** designed for beginners, developers, and researchers.
+
+This repository covers the full **Generative AI ecosystem**, including:
+
+- Large Language Models (LLMs)
+- Transformer Architecture
+- Prompt Engineering & System Prompts
+- Embeddings & Vector Databases
+- Retrieval-Augmented Generation (RAG)
+- Fine-Tuning (LoRA, QLoRA, PEFT)
+- AI Agents & Tool Calling
+- Multimodal AI (Text, Image, Audio)
+- OpenAI, Gemini, Claude, LLaMA, Mistral
+- LangChain, LlamaIndex, Hugging Face
+- Real-world Generative AI applications
+
+Whether you're building **ChatGPT-like apps**, **document chatbots**, **AI copilots**, or **autonomous agents**, this repo is your **A-to-Z Generative AI guide**.
+
+**Keywords:**  
+generative ai course, llm with python, prompt engineering, rag pipeline, ai agents, generative ai github repository, free generative ai resources
+
+---
+
+## ⭐ Why This Repository Is Your Best Generative AI Learning Hub
+
+1. 🧠 **End-to-End Learning**  
+   From GenAI basics to advanced agentic and multimodal systems.
+
+2. 🛠 **Hands-On & Practi**
+
 
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
  
