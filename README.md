@@ -176,9 +176,6 @@ Get weekly updates on:
 You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
 
 
-
-
-
 ## **🌍 Join Our Community**
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
@@ -198,17 +195,9 @@ If link is not working then you need to create account in couresteach.com then y
 
 📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
 
-## 📬 Stay Updated with Weekly Computer Vison Lessons!
-
-Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
-
-**Join hundreds of Computer Vision learners on Substack.**
-
-👉 [**Subscribe to Our Computer Vision  Newsletter**](https://substack.com/@coursesteach) ✨
-
 
 <details> 
-<summary> <h2>📕Course Title - 👁️ Course Title: Basics of Computer Vision </h2> </summary>
+<summary> <h2>📕Course Title - 👁️ Course Title: Basics of Generative AI  </h2> </summary>
  
 
 ## 👁️ Chapter1: - **Foundations of Computer Vision**
@@ -371,7 +360,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details>
-<summary> <h2>📕 Computer Vision Resources </h2> </summary>
+<summary> <h2>📕 Generative AI  Resources </h2> </summary>
 
 ##  🔹Chapter1: - **Free Courses**
 | Title/link| Description | Reading Status |
