@@ -366,6 +366,7 @@ If link is not working then you need to create account in couresteach.com then y
 | Title/link| Description | Reading Status |
 |---|---|---|
 |[**✅1- MIT 6.S087: Foundation Models & Generative AI (2024)**](https://www.youtube.com/playlist?list=PLXV9Vh2jYcjbnv67sXNDJiO8MWLA3ZJKR)|by Michigan Online,Youtube| Pending|
+|[**✅2- Generative AI for Beginners by Microsoft**](https://learn.microsoft.com/en-gb/shows/generative-ai-for-beginners/introduction-to-generative-ai-and-llms-generative-ai-for-beginners)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
@@ -382,6 +383,11 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅2- First Principles of Computer Vision**](https://www.youtube.com/@firstprinciplesofcomputerv3258/playlists)|It is Videos and github|---|
 |[**✅3-Yannic Kilcher**](https://www.youtube.com/@YannicKilcher)|It is Videos and github|---|
 |[**✅4-AI-ML-Roadmap-from-scratch**](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch)|It is Videos and github|---|
+
+##  🔹Chapter3: - **Projects**
+| Title/link| Description | Code |
+|---|---|---|
+|[**✅1-Generative AI Projects – Learn by Building**](https://github.com/SriLaxmi1993/Generative-AI-Projects/tree/main)|It is Videos and github|[1](https://srilaxmi.substack.com/p/day-9-of-building-ai-agents-building)|
 
 ## 🔹Chapter4: - **Free Books**
 | Title/link| Description | Code |
