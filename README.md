@@ -10,6 +10,18 @@ Learn **Generative AI from scratch** with hands-on Python code, **Large Language
 
 
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe
+    src="https://roadmap.sh/r/embed?id=696a087acfbef9e276aa7445"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
+
 ## 🚀 Introduction
 
 Welcome to a **complete Generative AI learning hub** designed for beginners, developers, and researchers.
