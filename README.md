@@ -6,12 +6,8 @@ Learn **Generative AI from scratch** with hands-on Python code, **Large Language
 
 ---
 
-<iframe
-  src="https://roadmap.sh/r/embed?id=696a087acfbef9e276aa7445"
-  width="100%"
-  height="500px"
-  frameborder="0">
-</iframe>
+[![View Roadmap](https://roadmap.sh/og/roadmaps.png)](https://roadmap.sh/r?id=696a087acfbef9e276aa7445)
+
 
 
 ## 🚀 Introduction
