@@ -260,13 +260,8 @@ If link is not working then you need to create account in couresteach.com then y
 ##  🔹Chapter5: - **Github Repository**
 | Title/link| Description | Status |
 |---|---|---|
-|[**✅1- Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|It is Videos and github| Pending|
-|[**✅2-courses & resources**](https://github.com/SkalskiP/courses)|It is course of all AI domain| Pending|
-|[**✅3-AIBauchi-Computer-Vision-Bootcamp**](https://github.com/AIBauchi/AIBauchi-Computer-Vision-Bootcamp/tree/main)|It is course of all AI domain| Inprogress|
-|[**✅4-Awesome Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov-file#courses)|It is course of all AI domain| Inprogress|
-|[**✅5-Community-led Computer Vision Community Course**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)|This is the repository for a community-led course on Computer Vision. Over 60 contributors from the Hugging Face| Inprogress|
-|[Computer Vision](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/computer_vision.md)|---|---|
-|[Computer Vision Tutorial Series M1C1](https://pub.towardsai.net/computer-vision-tutorial-series-m1c1-535c27cd36ca)|---|---|
+|[**✅1- Generative AI for Beginners (Version 3) - A Course**](https://github.com/microsoft/generative-ai-for-beginners)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
+
 
 ## 👁️ Chapter 1: - **🔍 Tools, Frameworks & Platforms**
 
