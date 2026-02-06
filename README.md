@@ -268,11 +268,10 @@ If link is not working then you need to create account in couresteach.com then y
 ## 🔹Chapter4: - **List of Generative AI Model**
 | Category | Models | Notes |
 |---|---|---|
-| **GAN** | AlexNet, VGG, ResNet, DenseNet, EfficientNet, ViT 🔴🔵, Swin Transformer 🔴🔵, ConvNeXt 🔵 | Image classification (CNNs and Transformers) |
-| **Object Detection** | R-CNN, Fast R-CNN, Faster R-CNN, YOLO, SSD, RetinaNet, DETR 🔴🔵, Mask R-CNN | Detects objects with bounding boxes or masks |
-| **Segmentation** | FCN, U-Net, DeepLab, PSPNet, SegFormer 🔴🔵, SAM 🔴🔵 | Pixel-level understanding of images |
-| **Generative Models** | Autoencoders, VAE, GAN, DCGAN, CycleGAN, StyleGAN, BigGAN, Diffusion Models (DDPM 🔵), DALL·E 🔴🔵, Stable Diffusion 🔵 | Image synthesis & generation |
-| **3D & Video Models** | PointNet, NeRF 🔵, 3D CNNs | 3D object recognition, volumetric data & video understanding |
+| **Variational Autoencoders (VAEs)** | AlexNet, VGG, ResNet, DenseNet, EfficientNet, ViT 🔴🔵, Swin Transformer 🔴🔵, ConvNeXt 🔵 | Image classification (CNNs and Transformers) |
+| **Generative Adversarial Networks (GANs)** | R-CNN, Fast R-CNN, Faster R-CNN, YOLO, SSD, RetinaNet, DETR 🔴🔵, Mask R-CNN | Detects objects with bounding boxes or masks |
+| **Limited Boltzmann Machines (RBMs)** | FCN, U-Net, DeepLab, PSPNet, SegFormer 🔴🔵, SAM 🔴🔵 | Pixel-level understanding of images |
+| **Transformer-based Language Models** | Autoencoders, VAE, GAN, DCGAN, CycleGAN, StyleGAN, BigGAN, Diffusion Models (DDPM 🔵), DALL·E 🔴🔵, Stable Diffusion 🔵 | Image synthesis & generation |
 
 ---
 **Legend:**  
