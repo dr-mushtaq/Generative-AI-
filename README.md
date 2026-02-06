@@ -221,6 +221,9 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅2- Generative AI for Beginners by Microsoft**](https://learn.microsoft.com/en-gb/shows/generative-ai-for-beginners/introduction-to-generative-ai-and-llms-generative-ai-for-beginners)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅3- Beginner: Introduction to Generative AI by Google**](https://www.skills.google/paths/118)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅4- Generative AI by Linkden**](https://www.linkedin.com/learning/topics/generative-ai)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
+|[**✅4- Generative AI with Large Language Models by cousera**](https://www.coursera.org/learn/generative-ai-with-llms?irclickid=RIMwY4SGUxycUVyXND0fZwm4Uku0PDyc73AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_#modules)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
+|[**✅4-Generative Adversarial Networks (GANs) Specialization by Coursera**](https://www.coursera.org/specializations/generative-adversarial-networks-gans?irclickid=RIMwY4SGUxycUVyXND0fZwm4Uku0PFyg73AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
+
 
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
@@ -228,6 +231,11 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅1- Road Map**](https://coggle.it/diagram/ZO5EUOut86Irr5hc/t/computer-vision-roadmap/760d909a1f28af1782645ff9b5af1dfd4481ce08bf258b4b54f868d7f3a1b8d5)|Road Map on Coggle|---|
 |[**✅2-visionbrick**](https://visionbrick.com/deeplearning/))|Road Map on Coggle|---|
 |[**✅3-computer Vision Study Plan**](https://pixelbank.dev/cv-study-plan))|Road Map on Coggle|---|
+
+##  🔹Chapter2: - **Road Map**
+| Title/link| Description | Code |
+|---|---|---|
+|[**✅1- Generative AI Roadmap**](https://amanxai.com/2024/08/07/generative-ai-roadmap/?fbclid=IwY2xjawEhKgNleHRuA2FlbQIxMQABHVjchws9NvKWaYEAzCRZ_TmEXNaw-js479ePFI3IU0ZCTg8RmMrbT5i6Xg_aem_UGLhydYVNRtOGaiiGHOkfw)|Road Map on Coggle|---|
 
 
 ##  🔹Chapter3: - **Important Social medica Groups**
@@ -257,10 +265,10 @@ If link is not working then you need to create account in couresteach.com then y
 
 
 
-## 🔹Chapter4: - **List of Computer Vision Model**
+## 🔹Chapter4: - **List of Generative AI Model**
 | Category | Models | Notes |
 |---|---|---|
-| **Classification** | AlexNet, VGG, ResNet, DenseNet, EfficientNet, ViT 🔴🔵, Swin Transformer 🔴🔵, ConvNeXt 🔵 | Image classification (CNNs and Transformers) |
+| **GAN** | AlexNet, VGG, ResNet, DenseNet, EfficientNet, ViT 🔴🔵, Swin Transformer 🔴🔵, ConvNeXt 🔵 | Image classification (CNNs and Transformers) |
 | **Object Detection** | R-CNN, Fast R-CNN, Faster R-CNN, YOLO, SSD, RetinaNet, DETR 🔴🔵, Mask R-CNN | Detects objects with bounding boxes or masks |
 | **Segmentation** | FCN, U-Net, DeepLab, PSPNet, SegFormer 🔴🔵, SAM 🔴🔵 | Pixel-level understanding of images |
 | **Generative Models** | Autoencoders, VAE, GAN, DCGAN, CycleGAN, StyleGAN, BigGAN, Diffusion Models (DDPM 🔵), DALL·E 🔴🔵, Stable Diffusion 🔵 | Image synthesis & generation |
