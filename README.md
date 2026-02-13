@@ -224,6 +224,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅4- Generative AI by Linkden**](https://www.linkedin.com/learning/topics/generative-ai)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅4- Generative AI with Large Language Models by cousera**](https://www.coursera.org/learn/generative-ai-with-llms?irclickid=RIMwY4SGUxycUVyXND0fZwm4Uku0PDyc73AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_#modules)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅4-Generative Adversarial Networks (GANs) Specialization by Coursera**](https://www.coursera.org/specializations/generative-adversarial-networks-gans?irclickid=RIMwY4SGUxycUVyXND0fZwm4Uku0PFyg73AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
+|[**✅5-Understanding Deep Learning**](https://udlbook.github.io/udlbook/_)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 
 
 ##  🔹Chapter2: - **Important Website**
@@ -290,6 +291,7 @@ If link is not working then you need to create account in couresteach.com then y
 | Title/link| Description | Status |
 |---|---|---|
 |[**✅1- Generative AI for Beginners (Version 3) - A Course**](https://github.com/microsoft/generative-ai-for-beginners)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
+|[**✅2- Understanding Deep Learning**](https://udlbook.github.io/udlbook/)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 
 
 ## 👁️ Chapter 1: - **🔍 Tools, Frameworks & Platforms**
