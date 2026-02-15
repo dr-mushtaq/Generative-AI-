@@ -248,6 +248,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅3-Yannic Kilcher**](https://www.youtube.com/@YannicKilcher)|It is Videos and github|---|
 |[**✅4-AI-ML-Roadmap-from-scratch**](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch)|It is Videos and github|---|
 |[**✅5-Free AI Agents Resources**](https://github.com/avinash201199/free-ai-agents-resources?tab=readme-ov-file#-quick-start)|It is Videos and github|---|
+|[**✅6-LLM Roadmap for 2026**](https://github.com/Jainam0/ai_ml_roadmap/blob/main/roadmap/roadmap.md)|It is Videos and github|---|
 
 ##  🔹Chapter3: - **Projects**
 | Title/link| Description | Code |
