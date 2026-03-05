@@ -179,7 +179,7 @@ If link is not working then you need to create account in couresteach.com then y
 
 
 <details> 
-<summary> <h2>📕Course Title - 👁️ Course Title: Basics of Generative AI  </h2> </summary>
+<summary> <h2>📕 Phase 3: Generative Models Fundamentals (Weeks 11-16)  </h2> </summary>
  
 
 ## 👁️ Chapter1: - **🔹 Chapter 1: Foundations of Generative AI**
