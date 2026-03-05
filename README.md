@@ -325,6 +325,7 @@ Of course, these won’t solve every use case, and I’m not listing every suppo
 | Title/link| Description | Status |
 |---|---|---|
 |[**✅1- Multimodal Data Analysis with Deep Learning**](https://rackenzik.com/multimodal-data-analysis-with-deep-learning/)|It is Videos and github|pending|
+|[**✅2-Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap**](https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/?fbclid=IwY2xjawQV4IRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe1kNazSrMfZMB8C_tRtv5zTtsmbTqUrm6UO66HfSOpey5DFfNr9bNGEoJ_ro_aem_wMybwKbwz9YCxwLJfiVFKw)|It is Videos and github|pending|
 </details>
 
 ##  💻 Workflow:
