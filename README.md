@@ -179,8 +179,9 @@ If link is not working then you need to create account in couresteach.com then y
 
 
 <details> 
-<summary> <h2>📕 Phase 3: Generative Models Fundamentals (Weeks 11-16)  </h2> </summary>
- 
+<summary> <h2>📕 Phase 1: Generative Models Fundamentals (Weeks 1-6)  </h2> </summary>
+
+   **Goal**: Understand core generative AI concepts
 
 ## 👁️ Chapter1: - **🔹 Chapter 1: Foundations of Generative AI**
 | Topic Name/Tutorial | Video | Code | Note|Difficulty|
