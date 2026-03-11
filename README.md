@@ -234,6 +234,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅8-Introduction to Generative AI Learning Path Specialization**]([https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms?specialization=generative-ai-for-everyone#modules](https://www.coursera.org/specializations/introduction-to-generative-ai#courses)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅5-Coursera Generative AI Courses You Must Know in 2026**](https://www.mltut.com/coursera-generative-ai-courses/#2-generative-ai-fundamentals-specialization)|Road Map on Coggle|--|
 |[**✅9-Generative AI with Large Language Models**](https://www.coursera.org/learn/generative-ai-with-llms/home/module/1)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
+|[**✅10-Building LLMs from scratch**](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 
 
 ##  🔹Chapter2: - **Important Website**
