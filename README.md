@@ -231,6 +231,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅5-Understanding Deep Learning**](https://udlbook.github.io/udlbook/_)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅6-Free and paid generative AI courses to learn new AI skills**](https://ryantronier.com/resources/generative-ai-courses/)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅7-Generative AI: Foundation Models and Platforms**](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms?specialization=generative-ai-for-everyone#modules)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
+|[**✅8-Introduction to Generative AI Learning Path Specialization**]([https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms?specialization=generative-ai-for-everyone#modules](https://www.coursera.org/specializations/introduction-to-generative-ai#courses))|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 
 
 ##  🔹Chapter2: - **Important Website**
