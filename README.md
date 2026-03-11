@@ -231,7 +231,8 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅5-Understanding Deep Learning**](https://udlbook.github.io/udlbook/_)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅6-Free and paid generative AI courses to learn new AI skills**](https://ryantronier.com/resources/generative-ai-courses/)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅7-Generative AI: Foundation Models and Platforms**](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms?specialization=generative-ai-for-everyone#modules)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
-|[**✅8-Introduction to Generative AI Learning Path Specialization**]([https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms?specialization=generative-ai-for-everyone#modules](https://www.coursera.org/specializations/introduction-to-generative-ai#courses))|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
+|[**✅8-Introduction to Generative AI Learning Path Specialization**]([https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms?specialization=generative-ai-for-everyone#modules](https://www.coursera.org/specializations/introduction-to-generative-ai#courses)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
+|[**✅5-Coursera Generative AI Courses You Must Know in 2026**](https://www.mltut.com/coursera-generative-ai-courses/#2-generative-ai-fundamentals-specialization))|Road Map on Coggle|---|
 
 
 ##  🔹Chapter2: - **Important Website**
@@ -241,7 +242,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅2-visionbrick**](https://visionbrick.com/deeplearning/))|Road Map on Coggle|---|
 |[**✅3-computer Vision Study Plan**](https://pixelbank.dev/cv-study-plan))|Road Map on Coggle|---|
 |[**✅4-LearnHub**](https://learn-hub-esi.tech/))|Road Map on Coggle|---|
-|[**✅5-Coursera Generative AI Courses You Must Know in 2026**](https://www.mltut.com/coursera-generative-ai-courses/#2-generative-ai-fundamentals-specialization))|Road Map on Coggle|---|
+
 
 ##  🔹Chapter2: - **Road Map**
 | Title/link| Description | Code |
