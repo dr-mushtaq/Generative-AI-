@@ -240,6 +240,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅2-visionbrick**](https://visionbrick.com/deeplearning/))|Road Map on Coggle|---|
 |[**✅3-computer Vision Study Plan**](https://pixelbank.dev/cv-study-plan))|Road Map on Coggle|---|
 |[**✅4-LearnHub**](https://learn-hub-esi.tech/))|Road Map on Coggle|---|
+|[**✅5-Coursera Generative AI Courses You Must Know in 2026**](https://www.mltut.com/coursera-generative-ai-courses/#2-generative-ai-fundamentals-specialization))|Road Map on Coggle|---|
 
 ##  🔹Chapter2: - **Road Map**
 | Title/link| Description | Code |
