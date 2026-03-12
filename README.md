@@ -252,6 +252,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅2-visionbrick**](https://visionbrick.com/deeplearning/))|Road Map on Coggle|---|
 |[**✅3-computer Vision Study Plan**](https://pixelbank.dev/cv-study-plan))|Road Map on Coggle|---|
 |[**✅4-LearnHub**](https://learn-hub-esi.tech/))|Road Map on Coggle|---|
+|[**✅5-Master Machine Learning & Generative AI**](https://yyimachinelearning-deeplearning.lovable.app/))|Road Map on Coggle|---|
 
 
 ##  🔹Chapter2: - **Road Map**
