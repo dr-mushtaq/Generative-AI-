@@ -275,7 +275,8 @@ If link is not working then you need to create account in couresteach.com then y
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1-Generative AI Projects – Learn by Building**](https://github.com/SriLaxmi1993/Generative-AI-Projects/tree/main)|It is Videos and github|[1](https://srilaxmi.substack.com/p/day-9-of-building-ai-agents-building)|
-|[**✅2-uilding a Multi-Tool AI Agent**](https://amanxai.com/2026/02/25/build-a-multi-tool-ai-agent/?fbclid=IwY2xjawQLcB5leHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeA85eS63t18LOL3o6TZYh-Aimynmll6Oekf5wW5ANSDiJphjAjMvG4hXwigA_aem_T1E4vex2Iei7c4gfmyQEcA)|It is Videos and github|[1](https://srilaxmi.substack.com/p/day-9-of-building-ai-agents-building)|
+|[**✅2-Building a Multi-Tool AI Agent**](https://amanxai.com/2026/02/25/build-a-multi-tool-ai-agent/?fbclid=IwY2xjawQLcB5leHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeA85eS63t18LOL3o6TZYh-Aimynmll6Oekf5wW5ANSDiJphjAjMvG4hXwigA_aem_T1E4vex2Iei7c4gfmyQEcA)|It is Videos and github|[1](https://srilaxmi.substack.com/p/day-9-of-building-ai-agents-building)|
+|[**✅3-Build an AI Code Review Bot for GitHub**](https://amanxai.com/2026/03/18/build-an-ai-code-review-bot-for-github/?fbclid=IwY2xjawQnfSdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEehu9AKUqTEfOAsKnmFl5z9BznL9x3NOsDwFUp_nX7Uki4QTV2sdyhOtjfiyM_aem_7ZxaRIgnS6xAThQUWvRJNQ)|It is Videos and github|[1](https://srilaxmi.substack.com/p/day-9-of-building-ai-agents-building)|
 
 ## 🔹Chapter4: - **Free Books**
 | Title/link| Description | Code |
