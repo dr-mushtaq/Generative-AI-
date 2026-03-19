@@ -229,6 +229,7 @@ If link is not working then you need to create account in couresteach.com then y
 |---|---|---|
 |[**✅1- MIT 6.S087: Foundation Models & Generative AI (2024)**](https://www.youtube.com/playlist?list=PLXV9Vh2jYcjbnv67sXNDJiO8MWLA3ZJKR)|by Michigan Online,Youtube| Pending|
 |[**✅2- Generative AI for Beginners by Microsoft**](https://learn.microsoft.com/en-gb/shows/generative-ai-for-beginners/introduction-to-generative-ai-and-llms-generative-ai-for-beginners)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
+|[**✅3- Generative AI for Beginners by Microsoft**](https://microsoft.github.io/generative-ai-for-beginners/#/)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅3- Beginner: Introduction to Generative AI by Google**](https://www.skills.google/paths/118)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅4- Generative AI by Linkden**](https://www.linkedin.com/learning/topics/generative-ai)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅4- Generative AI with Large Language Models by cousera**](https://www.coursera.org/learn/generative-ai-with-llms?irclickid=RIMwY4SGUxycUVyXND0fZwm4Uku0PDyc73AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_#modules)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
