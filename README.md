@@ -254,6 +254,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅3-computer Vision Study Plan**](https://pixelbank.dev/cv-study-plan))|Road Map on Coggle|---|
 |[**✅4-LearnHub**](https://learn-hub-esi.tech/))|Road Map on Coggle|---|
 |[**✅5-Master Machine Learning & Generative AI**](https://yyimachinelearning-deeplearning.lovable.app/))|Road Map on Coggle|---|
+|[**✅6-Foundations of Large Language Models and the Transformer Revolution BY AI tutor**](https://www.uphop.ai/app/c/technical_deep_dive_into_generative_ai?code=cHVMT))|Road Map on Coggle|---|
 
 
 ##  🔹Chapter2: - **Road Map**
