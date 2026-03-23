@@ -201,9 +201,9 @@ If link is not working then you need to create account in couresteach.com then y
    **Goal**: Understand core generative AI concepts
 
 ## 👁️ Chapter1: - **🔹 Chapter 1: Architecture and Data Preparation**
-| Topic Name/Tutorial | Video | Code | Note|Difficulty|
+| Topic Name/Tutorial | Video | Code | Note|Extra Resoruces|
 |---|---|---|---|---|
-| [**1-Generative AI as a Subset of Deep Learning**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://www.youtube.com/watch?v=FOENJJ6qpa8&list=PLLC7bmONapvDAapXf4blLNNeJUHTCjBAj)[-2](https://drive.google.com/file/d/1409F-8Ity-RcN3-9fcAKTaPWC_dT3qFu/view?usp=sharing) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[blog](https://dev.to/mushtaq_hussain_6678b0b0e/introduction-of-computer-vision-1g3g)|Beginer|
+| [**1-Significance of Generative AI**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1H74PE9d3mJgCT9s5Q_Y3DbZ5WX_VGTb1/view?usp=sharing)[-2](https://drive.google.com/file/d/1409F-8Ity-RcN3-9fcAKTaPWC_dT3qFu/view?usp=sharing) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|---|
 
 </details>
 
