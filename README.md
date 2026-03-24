@@ -32,7 +32,7 @@ Whether you're building **ChatGPT-like apps**, **document chatbots**, **AI copil
 ## Quick Start Checklist with Links
 
 - Subscribe to [Generative AI  on YouTube](https://www.youtube.com/playlist?list=PLLC7bmONapvDAapXf4blLNNeJUHTCjBAj). 
-- Enroll in Complete Machine Learning Courese [ Generative AI Concpets ](https://coursesteach.com/course/view.php?id=156) to Solve quiz and find extr resources.  .
+- Enroll in Complete Generative AI Courese [ Generative AI Concpets ](https://coursesteach.com/course/view.php?id=156) to Solve quiz and find extr resources.  .
 - Complete Road Map of Generative AI [Generative AI!](https://github.com/dr-mushtaq/Generative-AI-/blob/main/Roadmap%20%202.md) 
 
 **Keywords:**  
