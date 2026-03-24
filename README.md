@@ -29,6 +29,11 @@ This repository covers the full **Generative AI ecosystem**, including:
 
 Whether you're building **ChatGPT-like apps**, **document chatbots**, **AI copilots**, or **autonomous agents**, this repo is your **A-to-Z Generative AI guide**.
 
+## Quick Start Checklist with Links
+
+- Subscribe to [Generative AI  on YouTube](https://www.youtube.com/playlist?list=PLLC7bmONapvDAapXf4blLNNeJUHTCjBAj). 
+- Enroll in Complete Machine Learning Courese [ Machine Learning Notes](https://coursesteach.com/course/view.php?id=156) to Solve quiz and find extr resources.  .
+- Complete Road Map of Generative AI [Machine Learning!](https://github.com/dr-mushtaq/Generative-AI-/blob/main/Roadmap%20%202.md) 
 
 **Keywords:**  
 generative ai course, llm with python, prompt engineering, rag pipeline, ai agents, generative ai github repository, free generative ai resources
@@ -203,7 +208,7 @@ If link is not working then you need to create account in couresteach.com then y
 ## 👁️ Chapter1: - **🔹 Chapter 1: Architecture and Data Preparation**
 | Topic Name/Tutorial | Video | Code | Note|Extra Resoruces|
 |---|---|---|---|---|
-| [**1-Significance of Generative AI**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1H74PE9d3mJgCT9s5Q_Y3DbZ5WX_VGTb1/view?usp=sharing)[-2](https://drive.google.com/file/d/1409F-8Ity-RcN3-9fcAKTaPWC_dT3qFu/view?usp=sharing) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|---|
+| [**1-Significance of Generative AI**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1H74PE9d3mJgCT9s5Q_Y3DbZ5WX_VGTb1/view?usp=sharing)[-2](https://youtu.be/7jBgJDg2fEk?si=m0IZCRmgaw9HcU1d) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|---|
 
 </details>
 
