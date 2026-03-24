@@ -32,8 +32,8 @@ Whether you're building **ChatGPT-like apps**, **document chatbots**, **AI copil
 ## Quick Start Checklist with Links
 
 - Subscribe to [Generative AI  on YouTube](https://www.youtube.com/playlist?list=PLLC7bmONapvDAapXf4blLNNeJUHTCjBAj). 
-- Enroll in Complete Machine Learning Courese [ Machine Learning Notes](https://coursesteach.com/course/view.php?id=156) to Solve quiz and find extr resources.  .
-- Complete Road Map of Generative AI [Machine Learning!](https://github.com/dr-mushtaq/Generative-AI-/blob/main/Roadmap%20%202.md) 
+- Enroll in Complete Machine Learning Courese [ Generative AI Concpets ](https://coursesteach.com/course/view.php?id=156) to Solve quiz and find extr resources.  .
+- Complete Road Map of Generative AI [Generative AI!](https://github.com/dr-mushtaq/Generative-AI-/blob/main/Roadmap%20%202.md) 
 
 **Keywords:**  
 generative ai course, llm with python, prompt engineering, rag pipeline, ai agents, generative ai github repository, free generative ai resources
