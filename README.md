@@ -209,7 +209,7 @@ If link is not working then you need to create account in couresteach.com then y
 | Topic Name/Tutorial | Video | Code | Note|Extra Resoruces|
 |---|---|---|---|---|
 |**1-Significance of Generative AI**| [1](https://drive.google.com/file/d/1H74PE9d3mJgCT9s5Q_Y3DbZ5WX_VGTb1/view?usp=sharing)[-2](https://youtu.be/7jBgJDg2fEk?si=m0IZCRmgaw9HcU1d) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|---|
-|**2-Architectures and Models**| [1](https://drive.google.com/file/d/1CfNd7dcUq8K2dm5hjqUXdUyc40VAN3im/view?usp=sharing)[-2](https://youtu.be/7jBgJDg2fEk?si=m0IZCRmgaw9HcU1d) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|---|
+|**2-Architectures and Models**| [1](https://drive.google.com/file/d/1CfNd7dcUq8K2dm5hjqUXdUyc40VAN3im/view?usp=sharing)[-2](https://youtu.be/7jBgJDg2fEk?si=m0IZCRmgaw9HcU1d) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|---| 
 
 
 </details>
