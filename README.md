@@ -341,6 +341,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅2- Understanding Deep Learning**](https://udlbook.github.io/udlbook/)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 |[**✅3- The Agent Factory Thesis**](https://agentfactory.panaversity.org/docs/thesis)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 |[**✅4- Best AI/ML course for Beginners to advanced, recommendations?**](https://www.reddit.com/r/learnmachinelearning/comments/1rlbet2/best_aiml_course_for_beginners_to_advanced/)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
+|[**✅5-Generative_AI_Engineering_Coursera**](https://github.com/sakha1370/Generative_AI_Engineering_Coursera/tree/main)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 
 
 ## 👁️ Chapter 1: - **🔍 Tools, Frameworks & Platforms**
