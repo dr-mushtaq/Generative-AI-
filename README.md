@@ -294,6 +294,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅5-Free AI Agents Resources**](https://github.com/avinash201199/free-ai-agents-resources?tab=readme-ov-file#-quick-start)|It is Videos and github|---|
 |[**✅6-LLM Roadmap for 2026**](https://github.com/Jainam0/ai_ml_roadmap/blob/main/roadmap/roadmap.md)|It is Videos and github|---|
 |[**✅7-awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file&fbclid=IwZXh0bgNhZW0CMTAAAR2gwSbIWJ4XqaCMWaE4Rfv7nNNpZ7oesHM1-VGaqz-sdTYGkXROw8aPgE8_aem_AdO-NdAlUNmJg4IaYabhKimwoEl2zgzGfWkG1D0qNEyeiMiK82MCo94T0sv4snk9BqzBuMRUFK67N-FM5UvPlrIj#book-list-of-free-genai-courses)|It is Videos and github|---|
+|[**✅8-Jay Alammar**](https://www.youtube.com/@arp_ai)|It is Videos and github|---|
 
 ##  🔹Chapter3: - **Projects**
 | Title/link| Description | Code |
