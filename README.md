@@ -294,6 +294,7 @@ If link is not working then you need to create account in couresteach.com then y
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Generative AI Roadmap**](https://amanxai.com/2024/08/07/generative-ai-roadmap/?fbclid=IwY2xjawEhKgNleHRuA2FlbQIxMQABHVjchws9NvKWaYEAzCRZ_TmEXNaw-js479ePFI3IU0ZCTg8RmMrbT5i6Xg_aem_UGLhydYVNRtOGaiiGHOkfw)|Road Map on Coggle|---|
+|[**✅2-The Complete Guide: How to Become an ML Engineer**](https://conductorbyam.substack.com/p/the-complete-guide-how-to-become)|The Complete Guide: How to Become an ML Engineer|---|
 
 
 ##  🔹Chapter3: - **Important Social medica Groups**
