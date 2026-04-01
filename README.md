@@ -231,7 +231,7 @@ If link is not working then you need to create account in couresteach.com then y
 ## 👁️ Chapter1: - **🔹 Chapter 1: diffusion models**
 | Topic Name/Tutorial | Video | Code | Note|Extra Resoruces|
 |---|---|---|---|---|
-|**1-But how do AI images and videos actually work? | Guest video by Welch Labs**| [1](https://www.youtube.com/watch?v=iv-5mZ_9CPY) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|---|
+|**1-But how do AI images and videos actually work?**| [1](https://www.youtube.com/watch?v=iv-5mZ_9CPY) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|---|
 </details>
 
 <details> 
