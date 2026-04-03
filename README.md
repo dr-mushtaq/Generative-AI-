@@ -278,6 +278,8 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅11-Best Resources to Learn LLMs**](https://amanxai.com/2025/03/03/best-resources-to-learn-llms/?fbclid=IwY2xjawIyMzxleHRuA2FlbQIxMQABHYj0oJ2Roneynwcp1yJMDsIjU1vD7Iw8WPjGekuE0vD7VUs2sBgzK2_yVw_aem_POjnIPr3_Qbuh_9fF_tgPw)|Here are four best resources to help you learn LLMs, from fundamental NLP concepts to building your own LLMs from scratch | Generative AI for Beginners| Pending|
 |[**🌟12-Generative AI Engineering with LLMs Specialization**](https://www.coursera.org/specializations/generative-ai-engineering-with-llms?irclickid=wHVwSVSvAxycRa02tazz-V1JUkuzHIUWGQ0P280&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_#courses)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅13-Top Free Courses on Large Language Models**](https://www.kdnuggets.com/2023/03/top-free-courses-large-language-models.html)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
+|[**✅14-Generative AI & Prompt Engineering BY UDEMY**](https://www.udemy.com/course/aim810-genai/?im_ref=zU9VMAStxxycRnFTVA2iK3QzUku1g%3AQI00000w0&sharedid=&irpid=6778825&utm_medium=affiliate&utm_source=impact&utm_audience=mx&utm_tactic=%22Content%22%2C%22India%22&utm_content=3193860&utm_campaign=6778825&irgwc=1&afsrc=1)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
+|[**✅15-CS25-Transformer and LLM**](https://web.stanford.edu/class/cs25/recordings/)| Standand University transformer and LLM|
 
 
 ##  🔹Chapter2: - **Important Website**
@@ -309,6 +311,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅6-LLM Roadmap for 2026**](https://github.com/Jainam0/ai_ml_roadmap/blob/main/roadmap/roadmap.md)|It is Videos and github|---|
 |[**✅7-awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file&fbclid=IwZXh0bgNhZW0CMTAAAR2gwSbIWJ4XqaCMWaE4Rfv7nNNpZ7oesHM1-VGaqz-sdTYGkXROw8aPgE8_aem_AdO-NdAlUNmJg4IaYabhKimwoEl2zgzGfWkG1D0qNEyeiMiK82MCo94T0sv4snk9BqzBuMRUFK67N-FM5UvPlrIj#book-list-of-free-genai-courses)|It is Videos and github|---|
 |[**✅8-Jay Alammar**](https://www.youtube.com/@arp_ai)|It is Videos and github|---|
+|[**✅9-LLM Zoomcamp**](https://github.com/DataTalksClub/llm-zoomcamp?tab=readme-ov-file)|https://github.com/DataTalksClub/llm-zoomcamp?tab=readme-ov-file|---|
 
 ##  🔹Chapter3: - **Projects**
 | Title/link| Description | Code |
