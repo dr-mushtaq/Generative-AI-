@@ -298,6 +298,8 @@ If link is not working then you need to create account in couresteach.com then y
 |---|---|---|
 |[**✅1- Generative AI Roadmap**](https://amanxai.com/2024/08/07/generative-ai-roadmap/?fbclid=IwY2xjawEhKgNleHRuA2FlbQIxMQABHVjchws9NvKWaYEAzCRZ_TmEXNaw-js479ePFI3IU0ZCTg8RmMrbT5i6Xg_aem_UGLhydYVNRtOGaiiGHOkfw)|Road Map on Coggle|---|
 |[**✅2-The Complete Guide: How to Become an ML Engineer**](https://conductorbyam.substack.com/p/the-complete-guide-how-to-become)|The Complete Guide: How to Become an ML Engineer|---|
+|[**✅3-Best AI Agent Courses You Must Know in 2026**](https://www.mltut.com/best-ai-agent-courses/?fbclid=IwY2xjawQ9UwdleHRuA2FlbQIxMABicmlkETE0Q0xsNzlOa3U0cW5IejhUc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvXrIBmHFTXbi0TN9IXepJ1xoCCZwQ1dq2VXOn_buSzkSDKfTXEPfBfu4V8x_aem_4QBryfQG7IzZJTHFSq1igQ)|Best AI Agent Courses You Must Know in 2026|---|
+
 
 
 ##  🔹Chapter3: - **Important Social medica Groups**
