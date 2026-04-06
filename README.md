@@ -213,8 +213,6 @@ If link is not working then you need to create account in couresteach.com then y
 |**3-Generative AI for NLP**| [1](https://drive.google.com/file/d/1PhrDTBYLgXpL8vvqe203Ln28PJYAFgC4/view?usp=sharing)[-2](https://youtu.be/yfnz7l0_Rbs?si=J4-VlOA04dkLodJ4) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10545&forceview=1)|---| 
 |**4-Why Classical NLP Still Beats AI Models in Production**| [1](https://youtu.be/4lLbavBSing?si=uJ4nVL5rr-3mv3ip)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10545&forceview=1)|---| 
 
-
-
 </details>
 
 ## 👁️ Chapter2: - **🔹 Chapter 2: Large Language Model (From Scratch)**
@@ -299,6 +297,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅1- Generative AI Roadmap**](https://amanxai.com/2024/08/07/generative-ai-roadmap/?fbclid=IwY2xjawEhKgNleHRuA2FlbQIxMQABHVjchws9NvKWaYEAzCRZ_TmEXNaw-js479ePFI3IU0ZCTg8RmMrbT5i6Xg_aem_UGLhydYVNRtOGaiiGHOkfw)|Road Map on Coggle|---|
 |[**✅2-The Complete Guide: How to Become an ML Engineer**](https://conductorbyam.substack.com/p/the-complete-guide-how-to-become)|The Complete Guide: How to Become an ML Engineer|---|
 |[**✅3-Best AI Agent Courses You Must Know in 2026**](https://www.mltut.com/best-ai-agent-courses/?fbclid=IwY2xjawQ9UwdleHRuA2FlbQIxMABicmlkETE0Q0xsNzlOa3U0cW5IejhUc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvXrIBmHFTXbi0TN9IXepJ1xoCCZwQ1dq2VXOn_buSzkSDKfTXEPfBfu4V8x_aem_4QBryfQG7IzZJTHFSq1igQ)|Best AI Agent Courses You Must Know in 2026|---|
+|[**✅4-ai-learning-roadmaps**](https://github.com/bishwaghimire/ai-learning-roadmaps)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
 
 
 
