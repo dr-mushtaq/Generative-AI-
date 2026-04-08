@@ -301,6 +301,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅2-The Complete Guide: How to Become an ML Engineer**](https://conductorbyam.substack.com/p/the-complete-guide-how-to-become)|The Complete Guide: How to Become an ML Engineer|---|
 |[**✅3-Best AI Agent Courses You Must Know in 2026**](https://www.mltut.com/best-ai-agent-courses/?fbclid=IwY2xjawQ9UwdleHRuA2FlbQIxMABicmlkETE0Q0xsNzlOa3U0cW5IejhUc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvXrIBmHFTXbi0TN9IXepJ1xoCCZwQ1dq2VXOn_buSzkSDKfTXEPfBfu4V8x_aem_4QBryfQG7IzZJTHFSq1igQ)|Best AI Agent Courses You Must Know in 2026|---|
 |[**✅4-ai-learning-roadmaps**](https://github.com/bishwaghimire/ai-learning-roadmaps)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
+|[**✅5-A to Z Placement KIT**](https://docs.google.com/document/d/1wT7H71M7CghUwB9zdFS0yp_uPccOhqWYFdf_PHPfEFI/edit?tab=t.b2ctpnefx610)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
 
 
 
