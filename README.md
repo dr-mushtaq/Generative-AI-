@@ -303,6 +303,11 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅4-ai-learning-roadmaps**](https://github.com/bishwaghimire/ai-learning-roadmaps)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
 |[**✅5-A to Z Placement KIT**](https://docs.google.com/document/d/1wT7H71M7CghUwB9zdFS0yp_uPccOhqWYFdf_PHPfEFI/edit?tab=t.b2ctpnefx610)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
 
+##  🔹Chapter2: - **Notbook**
+| Title/link| Description | Code |
+|---|---|---|
+|[**✅1- Machine Leanrning Notbook**](https://colab.research.google.com/github/ageron/handson-mlp/blob/main/index.ipynb#scrollTo=oWaVAsoAKTBA)|Road Map on Coggle|---|
+
 
 
 ##  🔹Chapter3: - **Important Social medica Groups**
