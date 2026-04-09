@@ -281,6 +281,8 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅13-Top Free Courses on Large Language Models**](https://www.kdnuggets.com/2023/03/top-free-courses-large-language-models.html)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅14-Generative AI & Prompt Engineering BY UDEMY**](https://www.udemy.com/course/aim810-genai/?im_ref=zU9VMAStxxycRnFTVA2iK3QzUku1g%3AQI00000w0&sharedid=&irpid=6778825&utm_medium=affiliate&utm_source=impact&utm_audience=mx&utm_tactic=%22Content%22%2C%22India%22&utm_content=3193860&utm_campaign=6778825&irgwc=1&afsrc=1)|Introduction to Generative AI and LLMs (Part 1 of 18) | Generative AI for Beginners| Pending|
 |[**✅15-CS25-Transformer and LLM**](https://web.stanford.edu/class/cs25/recordings/)| Standand University transformer and LLM|
+|[**✅16-AI with LLMs and Transformers;From Theory to Deployment-2025 by udemy**](https://www.udemy.com/course/mastering-ai-with-transformers-and-llms/)| Standand University transformer and LLM|
+|[**✅17-Best AI Agent Courses You Must Know in 2026**](https://www.mltut.com/best-ai-agent-courses/?fbclid=IwY2xjawREAq1leHRuA2FlbQIxMABicmlkETFvUHlnSmxRSlFORG5oSURac3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHo6UY-mihgDUDXJsHzkj0ah49FbeT-EWIE4tP8msLWlmCe2PdPkZIHw3Fjiy_aem_r-4S1E1CKzFdOO_kS2XqQw)| Standand University transformer and LLM|
 
 
 ##  🔹Chapter2: - **Important Website**
