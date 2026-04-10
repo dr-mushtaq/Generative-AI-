@@ -396,6 +396,8 @@ Of course, these won’t solve every use case, and I’m not listing every suppo
 | [**✅11- MONAI**](https://monai.io/) | PyTorch-based **framework for medical imaging**, specialized for segmentation, classification, and 3D imaging. | [Docs](https://docs.monai.io/) |
 | [**✅12- Albumentations**](https://albumentations.ai/) | Fast and flexible library for **image augmentations**, widely used in CV pipelines. | [Docs](https://albumentations.ai/docs/) |
 | [**✅13- DVC (Data Version Control)**](https://dvc.org/) | A tool for **versioning datasets and ML experiments**, ensuring reproducibility in CV research. | [Docs](https://dvc.org/doc) |
+| [**✅14- Top 7 AI Agent Orchestration Frameworksl**](https://www.kdnuggets.com/top-7-ai-agent-orchestration-frameworks) | A tool for **versioning datasets and ML experiments**, ensuring reproducibility in CV research. | [Docs](https://dvc.org/doc) |
+
 
 
 ##  👁️ Chapter1: - **Importatant tutorial**
