@@ -283,6 +283,8 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅15-CS25-Transformer and LLM**](https://web.stanford.edu/class/cs25/recordings/)| Standand University transformer and LLM|
 |[**✅16-AI with LLMs and Transformers;From Theory to Deployment-2025 by udemy**](https://www.udemy.com/course/mastering-ai-with-transformers-and-llms/)| Standand University transformer and LLM|
 |[**✅17-Best AI Agent Courses You Must Know in 2026**](https://www.mltut.com/best-ai-agent-courses/?fbclid=IwY2xjawREAq1leHRuA2FlbQIxMABicmlkETFvUHlnSmxRSlFORG5oSURac3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHo6UY-mihgDUDXJsHzkj0ah49FbeT-EWIE4tP8msLWlmCe2PdPkZIHw3Fjiy_aem_r-4S1E1CKzFdOO_kS2XqQw)| Standand University transformer and LLM|
+|[**✅18-Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md)| Standand University transformer and LLM|
+|[**✅19-Stanford CME296 Diffusion & Large Vision Models Spring 2026 Lecture 1 - Diffusion**](https://www.youtube.com/watch?v=tr-CUpw--ck)| Standand University transformer and LLM|
 
 
 ##  🔹Chapter2: - **Important Website**
@@ -373,6 +375,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅3- The Agent Factory Thesis**](https://agentfactory.panaversity.org/docs/thesis)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 |[**✅4- Best AI/ML course for Beginners to advanced, recommendations?**](https://www.reddit.com/r/learnmachinelearning/comments/1rlbet2/best_aiml_course_for_beginners_to_advanced/)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 |[**✅5-Generative_AI_Engineering_Coursera**](https://github.com/sakha1370/Generative_AI_Engineering_Coursera/tree/main)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
+|[**✅6-Computer Science courses with video lectures**](https://github.com/sakha1370/Generative_AI_Engineering_Coursera/tree/main)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 
 
 ## 👁️ Chapter 1: - **🔍 Tools, Frameworks & Platforms**
