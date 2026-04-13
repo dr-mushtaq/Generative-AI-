@@ -285,6 +285,8 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅17-Best AI Agent Courses You Must Know in 2026**](https://www.mltut.com/best-ai-agent-courses/?fbclid=IwY2xjawREAq1leHRuA2FlbQIxMABicmlkETFvUHlnSmxRSlFORG5oSURac3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHo6UY-mihgDUDXJsHzkj0ah49FbeT-EWIE4tP8msLWlmCe2PdPkZIHw3Fjiy_aem_r-4S1E1CKzFdOO_kS2XqQw)| Standand University transformer and LLM|
 |[**✅18-Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md)| Standand University transformer and LLM|
 |[**✅19-Stanford CME296 Diffusion & Large Vision Models Spring 2026 Lecture 1 - Diffusion**](https://www.youtube.com/watch?v=tr-CUpw--ck)| Standand University transformer and LLM|
+|[**✅20-Best AI Agent Courses**](https://www.mltut.com/best-ai-agent-courses/?fbclid=IwY2xjawRIPAxleHRuA2FlbQIxMABicmlkETFIcHFEeTlVUng1S2VXVzdNc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjC-L86W748SVcyU6eIC5ju6FcYYinl8FvCgqYp4h3xHl2B1nYiqnrNWcox8_aem_QzyokFQHolMVmSZUJGVd8A)| Standand University transformer and LLM|
+
 
 
 ##  🔹Chapter2: - **Important Website**
