@@ -309,11 +309,17 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅4-ai-learning-roadmaps**](https://github.com/bishwaghimire/ai-learning-roadmaps)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
 |[**✅5-A to Z Placement KIT**](https://docs.google.com/document/d/1wT7H71M7CghUwB9zdFS0yp_uPccOhqWYFdf_PHPfEFI/edit?tab=t.b2ctpnefx610)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
 |[**✅6-AI learning plan by role**](https://aiexplorer-blog.vercel.app/courses)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
+|[**✅7-Roadmap To Learn Generative AI In 2025**](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2025)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
 
 ##  🔹Chapter2: - **Notbook**
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Machine Leanrning Notbook**](https://colab.research.google.com/github/ageron/handson-mlp/blob/main/index.ipynb#scrollTo=oWaVAsoAKTBA)|Road Map on Coggle|---|
+
+##  🔹Chapter2: - **Youtube Channle**
+| Title/link| Description | Code |
+|---|---|---|
+|[**✅1-Generative AI by Krish Naik**](https://www.youtube.com/playlist?list=PLA1lVIthbM1D5I6r5uY2K89X1KD2w5LNh)|Road Map on Coggle|---|
 
 
 
@@ -346,7 +352,6 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅3- Foundations of Computer Vision**](https://visionbook.mit.edu/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
 |[**✅4- Comprehensive Study Resource**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
 |[**✅5- AI-ML-Roadmap-from-scratch**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
-
 |---|
 
 
@@ -403,8 +408,6 @@ Of course, these won’t solve every use case, and I’m not listing every suppo
 | [**✅12- Albumentations**](https://albumentations.ai/) | Fast and flexible library for **image augmentations**, widely used in CV pipelines. | [Docs](https://albumentations.ai/docs/) |
 | [**✅13- DVC (Data Version Control)**](https://dvc.org/) | A tool for **versioning datasets and ML experiments**, ensuring reproducibility in CV research. | [Docs](https://dvc.org/doc) |
 | [**✅14- Top 7 AI Agent Orchestration Frameworksl**](https://www.kdnuggets.com/top-7-ai-agent-orchestration-frameworks) | A tool for **versioning datasets and ML experiments**, ensuring reproducibility in CV research. | [Docs](https://dvc.org/doc) |
-
-
 
 ##  👁️ Chapter1: - **Importatant tutorial**
 | Title/link| Description | Status |
