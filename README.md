@@ -279,6 +279,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅20-Best AI Agent Courses**](https://www.mltut.com/best-ai-agent-courses/?fbclid=IwY2xjawRIPAxleHRuA2FlbQIxMABicmlkETFIcHFEeTlVUng1S2VXVzdNc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjC-L86W748SVcyU6eIC5ju6FcYYinl8FvCgqYp4h3xHl2B1nYiqnrNWcox8_aem_QzyokFQHolMVmSZUJGVd8A)| Standand University transformer and LLM|
 |[**✅21-Complete Generative AI Course: RAG, AI Agents & Deployment by udemy**](https://www.udemy.com/course/generative-ai-for-beginners-chatbots-rag-mcp-ai-agents/?fbclid=IwY2xjawROwapleHRuA2FlbQEwAGFkaWQAAC_EXYqTdGJyaWQRMXpVOWVYMTNHOFpjWUJuMzBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEesA0q1dWXSk36bwqpreXtRfKdT7ybLFPRXUBcJ67Fl-72o14Oo1c5L6TPPTQ_aem_1s-5BRw8_DGnDubpHLyvpQ&media_type=image&utm_audience=mx&utm_campaign=ROW-FB-PROS-DPA-Evergreen-ROW-Value-Bidding-Smartly-EN-Sales&utm_campaign_id=52520426663092&utm_content=_._pd_6812079_._&utm_id=52520426663092&utm_medium=paid-social&utm_source=meta&utm_tactic=dpa&utm_term=_._ag_en_row_broad_audience_._ad_52520427058692_._)| Standand University transformer and LLM|
 |[**✅22-The Science and Implications of Generative AI**](https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-1)| Standand University transformer and LLM|
+|[**✅23-Transformers for Vision and Multimodal LLMs**](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgMaz0Mu-SjCPZNUjz6-6tN)| Standand University transformer and LLM|
 
 
 
