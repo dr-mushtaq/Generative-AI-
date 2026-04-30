@@ -348,11 +348,8 @@ If link is not working then you need to create account in couresteach.com then y
 ## 🔹Chapter4: - **Free Books**
 | Title/link| Description | Code |
 |---|---|---|
-|[**✅1- Foundations of Computer Vision**](https://visionbook.mit.edu/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
-|[**✅2- Computer Vision: Algorithms and Applications, 2nd ed**](https://szeliski.org/Book/)|© 2022 Richard Szeliski, The University of Washington|---|
-|[**✅3- Foundations of Computer Vision**](https://visionbook.mit.edu/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
-|[**✅4- Comprehensive Study Resource**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
-|[**✅5- AI-ML-Roadmap-from-scratch**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
+|[**✅1- Dive into Deep Learning**](https://d2l.ai/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
+
 |---|
 
 
