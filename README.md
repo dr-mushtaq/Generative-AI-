@@ -284,8 +284,6 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅22-The Science and Implications of Generative AI**](https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-1)| Standand University transformer and LLM|
 |[**✅23-Transformers for Vision and Multimodal LLMs**](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgMaz0Mu-SjCPZNUjz6-6tN)| Standand University transformer and LLM|
 
-
-
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
@@ -296,6 +294,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅5-Master Machine Learning & Generative AI**](https://yyimachinelearning-deeplearning.lovable.app/))|Road Map on Coggle|---|
 |[**✅6-Foundations of Large Language Models and the Transformer Revolution BY AI tutor**](https://www.uphop.ai/app/c/technical_deep_dive_into_generative_ai?code=cHVMT))|Road Map on Coggle|---|
 |[**✅7-Hugging Face**](https://huggingface.co/blog?utm_source=linkedin))|Community Blog & Articles|---|
+
 ##  🔹Chapter2: - **Important Tutorial**
 | Title/link| Description | Code |
 |---|---|---|
@@ -336,6 +335,7 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅7-awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file&fbclid=IwZXh0bgNhZW0CMTAAAR2gwSbIWJ4XqaCMWaE4Rfv7nNNpZ7oesHM1-VGaqz-sdTYGkXROw8aPgE8_aem_AdO-NdAlUNmJg4IaYabhKimwoEl2zgzGfWkG1D0qNEyeiMiK82MCo94T0sv4snk9BqzBuMRUFK67N-FM5UvPlrIj#book-list-of-free-genai-courses)|It is Videos and github|---|
 |[**✅8-Jay Alammar**](https://www.youtube.com/@arp_ai)|It is Videos and github|---|
 |[**✅9-LLM Zoomcamp**](https://github.com/DataTalksClub/llm-zoomcamp?tab=readme-ov-fil)|LLM road Map|---|
+|[**✅10-the-incredible-pytorch**](https://github.com/ritchieng/the-incredible-pytorch#transformers)|LLM road Map|---|
 
 ##  🔹Chapter3: - **Projects**
 | Title/link| Description | Code |
@@ -351,7 +351,6 @@ If link is not working then you need to create account in couresteach.com then y
 |[**✅1- Dive into Deep Learning**](https://d2l.ai/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
 
 |---|
-
 
 ## 🔹Chapter4: - **List of Generative AI Model**
 | Category | Models | Notes |
