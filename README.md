@@ -217,6 +217,11 @@ If link is not working then you need to create account in couresteach.com then y
 |**Lab: Implementing Tokenization**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Generative-AI-/blob/main/Implementing_Tokenization.ipynb)|---|---| 
 |**6-Overview of Data Loaders**| [1](https://drive.google.com/file/d/1nmypW-WtNXt-HDbtYWLJjY9mWDawiHN5/view?usp=sharing)[-2](https://youtu.be/Fc1-g5aeUZ0?si=AFqcHnxomnKlPhHN)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10553&forceview=1)|[1](https://machinelearningmastery.com/training-a-pytorch-model-with-dataloader-and-dataset/)[-2](https://www.dataquest.io/blog/natural-language-processing-nlp-with-pytorch/)[-3](https://huggingface.co/docs/datasets/use_with_pytorch)[-4](https://huggingface.co/learn/llm-course/chapter3/4)| 
 |**Lab: Creating an NLP Data Loader**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Generative-AI-/blob/main/Chapter%202%20Architecture%20and%20Data%20Preparation/Creating%20an%20NLP%20Data%20Loader.ipynb)|---|---| 
+
+## 👁️ Chapter2: - **🔹 Gen AI Foundational Models for NLP and Language Understanding**
+| Topic Name/Tutorial | Video | Code | Note|Extra Resoruces|
+|---|---|---|---|---|
+|**1-Significance of Generative AI**| [1](https://drive.google.com/file/d/1H74PE9d3mJgCT9s5Q_Y3DbZ5WX_VGTb1/view?usp=sharing)[-2](https://youtu.be/7jBgJDg2fEk?si=m0IZCRmgaw9HcU1d) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|[1](https://substack.com/home/post/p-190176274)|
 </details>
 
 <details> 
