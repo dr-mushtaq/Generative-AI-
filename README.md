@@ -311,6 +311,8 @@ In this module, you will explore the foundational techniques and tools that enab
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Building AI Agents with Local Small Language Models**](https://machinelearningmastery.com/blog/)|Road Map on Coggle|---|
+|[**✅2- Diffusion LLMs, Explained Simply**](https://www.intoai.pub/p/diffusion-llms-explained-simply)|Road Map on Coggle|---|
+
 
 ##  🔹Chapter2: - **Road Map**
 | Title/link| Description | Code |
