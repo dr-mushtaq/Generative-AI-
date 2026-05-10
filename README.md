@@ -395,6 +395,7 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅4- Best AI/ML course for Beginners to advanced, recommendations?**](https://www.reddit.com/r/learnmachinelearning/comments/1rlbet2/best_aiml_course_for_beginners_to_advanced/)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 |[**✅5-Generative_AI_Engineering_Coursera**](https://github.com/sakha1370/Generative_AI_Engineering_Coursera/tree/main)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 |[**✅6-Computer Science courses with video lectures**](https://github.com/sakha1370/Generative_AI_Engineering_Coursera/tree/main)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
+|[**✅7-Agent_Memory_Techniques**](https://github.com/NirDiamant/Agent_Memory_Techniques)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 
 
 ## 👁️ Chapter 1: - **🔍 Tools, Frameworks & Platforms**
