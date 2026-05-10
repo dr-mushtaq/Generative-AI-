@@ -334,6 +334,7 @@ In this module, you will explore the foundational techniques and tools that enab
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1-Generative AI by Krish Naik**](https://www.youtube.com/playlist?list=PLA1lVIthbM1D5I6r5uY2K89X1KD2w5LNh)|Road Map on Coggle|---|
+|[**✅2-Shaw Talebi by Shaw Talebi**](https://www.youtube.com/@ShawhinTalebi)|Road Map on Coggle|---|
 
 
 
