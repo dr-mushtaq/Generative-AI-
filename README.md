@@ -330,6 +330,8 @@ In this module, you will explore the foundational techniques and tools that enab
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Machine Leanrning Notbook**](https://colab.research.google.com/github/ageron/handson-mlp/blob/main/index.ipynb#scrollTo=oWaVAsoAKTBA)|Road Map on Coggle|---|
+|[**✅2- transformers**](https://github.com/huggingface/transformers/tree/main)|Road Map on Coggle|---|
+
 
 ##  🔹Chapter2: - **Youtube Channle**
 | Title/link| Description | Code |
