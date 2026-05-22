@@ -298,6 +298,7 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅23-Complete Agentic AI Course In 10 Hours**](https://www.youtube.com/watch?v=rV3HJ4LEZ7k&t=193s)| Complete Agentic AI Course In 10 Hours- Langchain, Langgraph, RAG,Vectorless RAG, Guardrails,Evals|
 |[**✅24-Computer Vision Course by hugging face**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)| Throughout this course, we’ll cover everything from the basics to the latest advancements in computer vision. It’s structured to include various foundational topics, making it friendly and accessible for everyone. We’re delighted to have you join us for this exciting journey|
 |[**✅25-Master Agentic AI Skills with SimplAI by simple University**](https://simplai.ai/simplai-university)| Throughout this course, we’ll cover everything from the basics to the latest advancements in computer vision. It’s structured to include various foundational topics, making it friendly and accessible for everyone. We’re delighted to have you join us for this exciting journey|
+|[**✅25-AI Agents for Beginners**](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/)| Throughout this course, we’ll cover everything from the basics to the latest advancements in computer vision. It’s structured to include various foundational topics, making it friendly and accessible for everyone. We’re delighted to have you join us for this exciting journey|
 
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
