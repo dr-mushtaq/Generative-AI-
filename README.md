@@ -326,6 +326,7 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅5-A to Z Placement KIT**](https://docs.google.com/document/d/1wT7H71M7CghUwB9zdFS0yp_uPccOhqWYFdf_PHPfEFI/edit?tab=t.b2ctpnefx610)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
 |[**✅6-AI learning plan by role**](https://aiexplorer-blog.vercel.app/courses)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
 |[**✅7-Roadmap To Learn Generative AI In 2025**](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2025)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
+|[**✅7-Agentic AI for Absolute Beginners: A 100% Free Learning Roadmap**](https://www.reddit.com/r/AI_India/comments/1thfipo/agentic_ai_for_absolute_beginners_a_100_free/?share_id=Nxlxfs3lpZK1SSN_-czcd&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=3)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
 
 ##  🔹Chapter2: - **Notbook**
 | Title/link| Description | Code |
