@@ -361,6 +361,7 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅8-Jay Alammar**](https://www.youtube.com/@arp_ai)|It is Videos and github|---|
 |[**✅9-LLM Zoomcamp**](https://github.com/DataTalksClub/llm-zoomcamp?tab=readme-ov-fil)|LLM road Map|---|
 |[**✅10-the-incredible-pytorch**](https://github.com/ritchieng/the-incredible-pytorch#transformers)|LLM road Map|---|
+|[**✅11-Machine Learning Course Notes**](https://github.com/dair-ai/ML-Course-Notes)|LLM road Map|---|
 
 ##  🔹Chapter3: - **Projects**
 | Title/link| Description | Code |
