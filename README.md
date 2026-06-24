@@ -364,6 +364,8 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅9-LLM Zoomcamp**](https://github.com/DataTalksClub/llm-zoomcamp?tab=readme-ov-fil)|LLM road Map|---|
 |[**✅10-the-incredible-pytorch**](https://github.com/ritchieng/the-incredible-pytorch#transformers)|LLM road Map|---|
 |[**✅11-Machine Learning Course Notes**](https://github.com/dair-ai/ML-Course-Notes)|LLM road Map|---|
+|[**✅12-Live Machine Learning Class:**](https://github.com/roboticcam/machine-learning-notes)|Genertive AI|---|
+
 
 ##  🔹Chapter3: - **Projects**
 | Title/link| Description | Code |
