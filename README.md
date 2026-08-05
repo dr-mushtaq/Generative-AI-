@@ -368,6 +368,8 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅10-the-incredible-pytorch**](https://github.com/ritchieng/the-incredible-pytorch#transformers)|LLM road Map|---|
 |[**✅11-Machine Learning Course Notes**](https://github.com/dair-ai/ML-Course-Notes)|LLM road Map|---|
 |[**✅12-Live Machine Learning Class:**](https://github.com/roboticcam/machine-learning-notes)|Genertive AI|---|
+|[**✅13-Generative AI with LLMs**](https://github.com/SatishAdhikari/Generative-AI-with-LLMs/tree/main/Week-1)|Slides, Quiz etc|---|
+
 
 
 ##  🔹Chapter3: - **Projects**
