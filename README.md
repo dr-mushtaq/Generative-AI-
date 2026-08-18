@@ -386,6 +386,8 @@ In this module, you will explore the foundational techniques and tools that enab
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Dive into Deep Learning**](https://d2l.ai/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
+|[**✅1-Booklist**](https://github.com/zhang-jian/bookshelf/tree/master)|Antonio Torralba, Phillip Isola, and William Freeman|---|
+
 
 |---|
 
