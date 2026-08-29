@@ -424,6 +424,8 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅6-Computer Science courses with video lectures**](https://github.com/sakha1370/Generative_AI_Engineering_Coursera/tree/main)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 |[**✅7-Agent_Memory_Techniques**](https://github.com/NirDiamant/Agent_Memory_Techniques)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 |[**✅8-Advanced RAG Techniques**](https://github.com/NirDiamant/RAG_Techniques)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
+|[**✅9-Generative AI by Microsoft**](https://microsoft.github.io/generative-ai-for-beginners/#/)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
+|[**✅10-Artificial-Intelligence-Courses by KAUST Academy**](https://github.com/KAUST-Academy/Artificial-Intelligence-Courses)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 
 
 ## 👁️ Chapter 1: - **🔍 Tools, Frameworks & Platforms**
