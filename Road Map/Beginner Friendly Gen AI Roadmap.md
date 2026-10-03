@@ -177,11 +177,12 @@ That is RAG. The model now “knows” about your 300 jobs without you ever exce
 
 Resources:
 
-📺 RAG Explained in 20 Minutes, with Hands-on Project
+[📺 RAG Explained in 20 Minutes, with Hands-on Project](https://youtu.be/RosLeHGBLoY?si=uNMlxc_-UJugrdnW)
 
-📺 Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation
+[📺 Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation](https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY)
 
-Stage 5: AI Agents
+# Stage 5: AI Agents
+
 What is it? An AI agent is an LLM that does not just answer questions. It takes actions. It can browse the web, run code, call APIs, write files, and loop through a series of steps until a goal is complete.
 
 A standard LLM responds. An agent executes.
@@ -218,11 +219,11 @@ That is a multi-step agent completing a real-world task autonomously.
 
 Resources:
 
-📺 LangGraph Tutorial: How to Build Advanced AI Agent Systems
+[📺 LangGraph Tutorial: How to Build Advanced AI Agent Systems](https://youtu.be/1w5cCXlh7JQ?si=_zC0psZ4jt5Q2MMB)
 
-📺 AI Agent Tutorial for Beginners (LangGraph Playlist)
+[📺 AI Agent Tutorial for Beginners (LangGraph Playlist)](https://www.youtube.com/playlist?list=PLCqo9x4xS5_o5ns-kYB1SN-UsI6GCV5qX)
 
-Stage 6: Fine-Tuning
+# Stage 6: Fine-Tuning
 What is it? Fine-tuning means taking a pre-trained LLM and training it further on your specific dataset so it internalises your domain, tone, or output format.
 
 Important: most applications do not need fine-tuning. Prompt engineering (Stage 3) and RAG (Stage 4) solve 80 to 90% of problems. Fine-tune only when:
