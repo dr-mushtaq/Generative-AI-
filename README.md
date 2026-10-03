@@ -348,7 +348,7 @@ In this module, you will explore the foundational techniques and tools that enab
 
 
 ##  🔹Chapter2: - **Road Map**
-| Title/link| Description | Code |
+| Title/link| Description | Extra Resources |
 |---|---|---|
 |[**✅1- Generative AI Roadmap**](https://amanxai.com/2024/08/07/generative-ai-roadmap/?fbclid=IwY2xjawEhKgNleHRuA2FlbQIxMQABHVjchws9NvKWaYEAzCRZ_TmEXNaw-js479ePFI3IU0ZCTg8RmMrbT5i6Xg_aem_UGLhydYVNRtOGaiiGHOkfw)|Road Map on Coggle|---|
 |[**✅2-The Complete Guide: How to Become an ML Engineer**](https://conductorbyam.substack.com/p/the-complete-guide-how-to-become)|The Complete Guide: How to Become an ML Engineer|---|
@@ -360,6 +360,7 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅7-Agentic AI for Absolute Beginners: A 100% Free Learning Roadmap**](https://www.reddit.com/r/AI_India/comments/1thfipo/agentic_ai_for_absolute_beginners_a_100_free/?share_id=Nxlxfs3lpZK1SSN_-czcd&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=3)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
 |[**✅8-Free Resources to Learn Agentic AI**](https://amanxai.com/2026/06/08/free-resources-to-learn-agentic-ai/?fbclid=IwdGRjcASTu4tleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR7NlKaK514wcX-_X62WO3UoTdINXB9AEUq6xqjj3Qt9T9DI31KmIDATptXbZg_aem_e7cNUcJM1rwtEWN3dJipGQ)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
 |[**✅9-The Complete AI Engineer Roadmap**](https://ai-roadmap--tracker.vercel.app/roadmap/phase-3-applied-llm-engineering)|A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.|---|
+|[**✅10-Beginner Friendly Gen AI Roadmap**](https://devshreebharatia.substack.com/p/beginner-friendly-gen-ai-roadmap?utm_source=share&utm_medium=android&r=f2squ)|By the end of this roadmap, you will know exactly how to build it, and you will have touched every major layer of the GenAI stack.|[1](https://github.com/dr-mushtaq/Generative-AI-/blob/main/Road%20Map/Beginner%20Friendly%20Gen%20AI%20Roadmap.md)|
 
 ##  🔹Chapter2: - **Notbook**
 | Title/link| Description | Code |
