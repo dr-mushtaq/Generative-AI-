@@ -94,7 +94,8 @@ Resources:
 
 [📺 Let’s build GPT: from scratch, in code (Andrej Karpathy)](https://youtu.be/kCc8FmEb1nY?si=r1eBsKN-_yB7-Cnq)
 
-Stage 3: Prompt Engineering
+# Stage 3: Prompt Engineering
+
 What is it? Prompt engineering is the skill of writing instructions that get the best possible output from an LLM. The model is the same. What changes is how you talk to it.
 
 A bad prompt gives you a generic, vague answer. A well-crafted prompt gives you a structured, accurate, task-specific response.
@@ -129,11 +130,11 @@ The output is dramatically better.
 
 Resources:
 
-📺 Prompt Engineering Tutorial – Master ChatGPT and LLM Responses (freeCodeCamp)
+[📺 Prompt Engineering Tutorial – Master ChatGPT and LLM Responses (freeCodeCamp)](https://youtu.be/_ZvnD73m40o?si=OLNPgdg8idkZtQ3B)
 
-📺 Prompt Engineering Full Course: From Beginner to Pro
+[📺 Prompt Engineering Full Course: From Beginner to Pro](https://youtu.be/YhRfgYH_AoU?si=LNwbIQMZLz4jIE0q)
 
-Stage 4: RAG (Retrieval-Augmented Generation)
+# Stage 4: RAG (Retrieval-Augmented Generation)
 What is it? LLMs have a knowledge cutoff. They do not know about data you collected today, documents you wrote last week, or the 300 job listings you bookmarked. RAG fixes this by giving the model access to a searchable database before it generates a response.
 
 Think of it as: look it up first, then answer.
