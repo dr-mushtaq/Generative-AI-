@@ -60,7 +60,8 @@ Resources:
 
 [📺 Python Full Course for free, 2024 (Bro Code)](https://www.youtube.com/watch?v=ix9cRaBkVe0)
 
-Stage 2: Understanding LLMs
+# Stage 2: Understanding LLMs
+
 What is an LLM? A Large Language Model is a neural network trained on billions of text examples to predict the next word in a sequence. Because of the scale of training, it develops an understanding of language, reasoning, and even code. GPT-4, Claude, and Gemini are all LLMs.
 
 You do not need to train one. You need to understand how they work well enough to use them correctly.
@@ -89,9 +90,9 @@ Back to SmartApply: You send the cleaned resume text and a job description to th
 
 Resources:
 
-📺 Intro to Large Language Models (Andrej Karpathy, 1hr talk)
+[📺 Intro to Large Language Models (Andrej Karpathy, 1hr talk)](https://youtu.be/zjkBMFhNj_g?si=I46qP9d6lm7rBETT)
 
-📺 Let’s build GPT: from scratch, in code (Andrej Karpathy)
+[📺 Let’s build GPT: from scratch, in code (Andrej Karpathy)](https://youtu.be/kCc8FmEb1nY?si=r1eBsKN-_yB7-Cnq)
 
 Stage 3: Prompt Engineering
 What is it? Prompt engineering is the skill of writing instructions that get the best possible output from an LLM. The model is the same. What changes is how you talk to it.
