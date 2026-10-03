@@ -19,7 +19,7 @@ Subscribe
 Stage 1: Python and ML Fundamentals
 Before touching any AI model, you need a solid base. Skip this and everything else will feel like magic you cannot control.
 
-✅ Python
+# ✅ Python
 Core Python: Data types, loops, functions, list comprehensions, error handling
 
 Object-Oriented Programming: Classes, inheritance. You will use this when structuring your AI pipelines
@@ -34,7 +34,7 @@ Matplotlib and Seaborn for visualising model outputs
 
 PyPDF2 or pdfplumber for extracting text from PDFs
 
-✅ Machine Learning Basics
+# ✅ Machine Learning Basics
 You do not need to be an ML researcher. But you do need to understand:
 
 How models learn from data (supervised vs. unsupervised learning)
@@ -56,9 +56,9 @@ Back to SmartApply: You write a Python script that uses pdfplumber to extract te
 
 Resources:
 
-📺 Learn Python Full Course for Beginners (freeCodeCamp, 50M+ views)
+[📺 Learn Python Full Course for Beginners (freeCodeCamp, 50M+ views)](https://youtu.be/rfscVS0vtbw?si=OioFxFP0kUiX9_C7)
 
-📺 Python Full Course for free, 2024 (Bro Code)
+[📺 Python Full Course for free, 2024 (Bro Code)](https://www.youtube.com/watch?v=ix9cRaBkVe0)
 
 Stage 2: Understanding LLMs
 What is an LLM? A Large Language Model is a neural network trained on billions of text examples to predict the next word in a sequence. Because of the scale of training, it develops an understanding of language, reasoning, and even code. GPT-4, Claude, and Gemini are all LLMs.
