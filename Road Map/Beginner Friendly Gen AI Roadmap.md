@@ -258,11 +258,11 @@ Back to SmartApply: You collect 400 cover letters that resulted in interviews (f
 
 Resources:
 
-📺 Generative AI Fine Tuning LLM Models Crash Course (Krish Naik)
+[📺 Generative AI Fine Tuning LLM Models Crash Course (Krish Naik)](https://youtu.be/t-0s_2uZZU0?si=3ix379h8ZiZcsVSt)
 
-📺 Fine-tuning LLM Full Playlist (Krish Naik)
+[📺 Fine-tuning LLM Full Playlist (Krish Naik)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3)
 
-Stage 7: Deployment and LLMOps
+# Stage 7: Deployment and LLMOps
 What is it? Building something in a Jupyter Notebook is step one. Getting it to run reliably for real users, at scale, with monitoring, is the actual engineering challenge.
 
 LLMOps (LLM Operations) covers deploying, monitoring, and maintaining LLM-powered applications in production.
@@ -299,9 +299,9 @@ Back to SmartApply: You wrap SmartApply in a FastAPI app, containerise it with D
 
 Resources:
 
-📺 FastAPI + LangServe: The Secret to Deploying Your LLM App
+[📺 FastAPI + LangServe: The Secret to Deploying Your LLM App](https://www.youtube.com/watch?v=Agh9G-iIFrQ)
 
-📺 How to Deploy ML Solutions with FastAPI, Docker, and AWS
+[📺 How to Deploy ML Solutions with FastAPI, Docker, and AWS](https://www.youtube.com/watch?v=pJ_nCklQ65w)
 
 Where to Go From Here
 If you build SmartApply across these 7 stages, you will have touched APIs, RAG, agents, fine-tuning, and production deployment, all in one project. That is not just a tutorial project. That is a portfolio piece you can demo, a GitHub repo you can show, and a real problem you solved for yourself.
