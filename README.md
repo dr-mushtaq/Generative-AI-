@@ -448,6 +448,7 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅8-Advanced RAG Techniques**](https://github.com/NirDiamant/RAG_Techniques)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 |[**✅9-Generative AI by Microsoft**](https://microsoft.github.io/generative-ai-for-beginners/#/)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
 |[**✅10-Artificial-Intelligence-Courses by KAUST Academy**](https://github.com/KAUST-Academy/Artificial-Intelligence-Courses)|21 Lessons teaching everything you need to know to start building Generative AI applications| Pendin|
+|[**✅11-zero-to-ai**](https://github.com/PavanMudigonda/zero-to-ai)|Zero to AI is a free, open-source AI course and machine learning curriculum for learning Python, data science, deep learning, large language models (LLMs), retrieval-augmented generation (RAG), AI agents, prompt engineering, fine-tuning, and MLOps through 950+ hands-on Jupyter notebooks.| Pending|
 
 
 ## 👁️ Chapter 1: - **🔍 Tools, Frameworks & Platforms**
