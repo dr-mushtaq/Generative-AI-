@@ -339,6 +339,7 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅5-Master Machine Learning & Generative AI**](https://yyimachinelearning-deeplearning.lovable.app/))|Road Map on Coggle|---|
 |[**✅6-Foundations of Large Language Models and the Transformer Revolution BY AI tutor**](https://www.uphop.ai/app/c/technical_deep_dive_into_generative_ai?code=cHVMT))|Road Map on Coggle|---|
 |[**✅7-Hugging Face**](https://huggingface.co/blog?utm_source=linkedin))|Community Blog & Articles|---|
+|[**✅8-Zero to AI**](https://zero-to-ai.dev/10-specializations)|Zero to AI is a free, open-source AI course and machine learning curriculum for learning Python, data science, deep learning, large language models (LLMs), retrieval-augmented generation (RAG), AI agents, prompt engineering, fine-tuning, and MLOps through 950+ hands-on Jupyter notebooks.|---|
 
 ##  🔹Chapter2: - **Important Tutorial**
 | Title/link| Description | Code |
