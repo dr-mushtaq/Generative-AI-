@@ -246,7 +246,7 @@ In this module, you will explore the foundational techniques and tools that enab
 ## 👁️ Chapter3: - **🔹 Chapter 3: Fine-tuning and evaluating large language models**
 | Topic Name/Tutorial | Video | Code | Note|Extra Resoruces|
 |---|---|---|---|---|
-|**1-Significance of Generative AI**| [1](https://drive.google.com/file/d/1H74PE9d3mJgCT9s5Q_Y3DbZ5WX_VGTb1/view?usp=sharing)[-2](https://youtu.be/7jBgJDg2fEk?si=m0IZCRmgaw9HcU1d) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|[1](https://substack.com/home/post/p-190176274)|
+|**✅1-Instruction Fine-Tuning**| [1](https://drive.google.com/file/d/1VCd3_SmbPCtV_8H00zAYgX0uUDsS0Du6/view?usp=sharing)[-2](https://youtu.be/gXhUYlbTImc?si=meI7YU8RhHq-cD6p) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=10541)|[1](https://substack.com/home/post/p-190176274)|
 
 </details>
 
