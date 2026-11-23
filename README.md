@@ -337,6 +337,17 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅30-IBM Generative AI Engineering Professional Certificate)**](https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering?irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr2fF0I73AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_#courses)| Throughout this course, we’ll cover everything from the basics to the latest advancements in computer vision. It’s structured to include various foundational topics, making it friendly and accessible for everyone. We’re delighted to have you join us for this exciting journey|
 |[**✅30- Leearn by Kaggle**](https://www.kaggle.com/learn)| Gain the skills you need to do independent data science projects.|
 |[**✅🌟IBM AI Engineering Professional Certificate**](https://www.coursera.org/organizations/pakistan/professional-certificates/ai-engineer?afsrc=1&irclickid=RIMwY4SGUxycUVyXND0fZwm4UkrUUm1g73AAU80&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545_#courses)| Gain the skills you need to do independent data science projects.|
+|[**✅50- Generative AI Explained**](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1)|by NVIDIA, Self-Paced Course|Pending|
+|[**✅51- Building a Brain in 10 Minutes**](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-FX-01+V1)|by NVIDIA, Self-Paced Course|Pending|
+|[**✅52- AI for All: From Basics to GenAI Practice**](https://academy.nvidia.com/en/course/ai-for-all-from-basics-to-genai-practice/)|by NVIDIA Academy, Self-Paced Course|Pending|
+|[**✅53- Getting Started with AI on Jetson Nano**](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2)|by NVIDIA DLI, Self-Paced Course|Pending|
+|[**✅54- Introduction to AI in the Data Center**](https://www.nvidia.com/en-us/data-center/enterprise-software/)|by NVIDIA Academy, Training Course|Pending|
+|[**✅55- An Even Easier Introduction to CUDA**](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)|by NVIDIA, Tutorial and Interactive Learning|Pending|
+|[**✅56- Introduction to NVIDIA NIM Microservices**](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-23+V1)|by NVIDIA, Self-Paced Course|Pending|
+|[**✅57- Generative AI in Digital Health**](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-HX-03+V1)|by NVIDIA, Self-Paced Course|Pending|
+|[**✅58- AI Weather Models with NVIDIA Earth-2**](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-31+V1)|by NVIDIA, Self-Paced Course|Pending|
+|[**✅59- Accelerated Computing with CUDA C/C++**](https://www.nvidia.com/en-in/training/instructor-led-workshops/fundamentals-of-accelerated-computing-with-cuda/)|by NVIDIA DLI, Workshop|Pending|
+|[**✅60- Generative AI with NeMo**](https://www.nvidia.com/en-us/ai-data-science/products/nemo/)|by NVIDIA, NeMo Training Resources|Pending|
 
 
 ##  🔹Chapter2: - **Important Website**
