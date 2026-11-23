@@ -349,6 +349,7 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅58- AI Weather Models with NVIDIA Earth-2**](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-31+V1)|by NVIDIA, Self-Paced Course|Pending|
 |[**✅59- Accelerated Computing with CUDA C/C++**](https://www.nvidia.com/en-in/training/instructor-led-workshops/fundamentals-of-accelerated-computing-with-cuda/)|by NVIDIA DLI, Workshop|Pending|
 |[**✅60- Generative AI with NeMo**](https://www.nvidia.com/en-us/ai-data-science/products/nemo/)|by NVIDIA, NeMo Training Resources|Pending|
+|[**✅🌟60-Prompt Engineering for ChatGPT**](https://www.coursera.org/organizations/pakistan/learn/prompt-engineering?utm_source=impact&utm_campaignid=thecleverprogrammer&utm_content=b2c&irclickid=RZwSoFXFExyZTfw33IVUpxatUkrUJ%3ARfGQ0Wyo0&afsrc=1&utm_campaign=3401872&irgwc=1&utm_medium=partners&utm_term=14726_CR_1164545_)|by NVIDIA, NeMo Training Resources|Pending|
 
 
 ##  🔹Chapter2: - **Important Website**
