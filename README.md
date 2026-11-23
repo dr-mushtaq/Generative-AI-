@@ -350,6 +350,7 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅59- Accelerated Computing with CUDA C/C++**](https://www.nvidia.com/en-in/training/instructor-led-workshops/fundamentals-of-accelerated-computing-with-cuda/)|by NVIDIA DLI, Workshop|Pending|
 |[**✅60- Generative AI with NeMo**](https://www.nvidia.com/en-us/ai-data-science/products/nemo/)|by NVIDIA, NeMo Training Resources|Pending|
 |[**✅🌟60-Prompt Engineering for ChatGPT**](https://www.coursera.org/organizations/pakistan/learn/prompt-engineering?utm_source=impact&utm_campaignid=thecleverprogrammer&utm_content=b2c&irclickid=RZwSoFXFExyZTfw33IVUpxatUkrUJ%3ARfGQ0Wyo0&afsrc=1&utm_campaign=3401872&irgwc=1&utm_medium=partners&utm_term=14726_CR_1164545_)|by NVIDIA, NeMo Training Resources|Pending|
+|[**✅🌟60-Developing LLM Applications with LangChain**](https://www.coursera.org/organizations/pakistan/learn/developing-llm-applications-with-langchain?afsrc=1&irclickid=RZwSoFXFExyZTfw33IVUpxatUkrUJ7V2GQ0Wyo0&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545_)|by NVIDIA, NeMo Training Resources|Pending
 
 
 ##  🔹Chapter2: - **Important Website**
