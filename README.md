@@ -176,10 +176,6 @@ You can support this project by becoming a sponsor on **[GitHub Sponsors](https:
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
 
-🔗 [**Bloger Blogs**](https://coursesteach.blogspot.com/2025/08/top-computer-vision-tasks-and-real.html)
-
-🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
-
 🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
 
 🔗 [**Enbroll in Complate Computer Vision Course**](https://coursesteach.com/course/view.php?id=133)
