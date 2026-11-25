@@ -8,6 +8,13 @@ Learn **Generative AI from scratch** with hands-on Python code, **Large Language
 
 [![View Roadmap](https://roadmap.sh/og/roadmaps.png)](https://roadmap.sh/r?id=696a087acfbef9e276aa7445)
 
+### 🙌 Become a Sponsor
+
+You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **Gumroad:** —  📧 [Gumroad:]( https://couresesteach.gumroad.com/l/SupportCoursesTeach).
+
+Every contribution — big or small — helps sustain the development of **AI tools and Resources**, **AI-driven educational resources**, and **data science tools**.  
+Thank you for your generous support! 🌟
+
 
 ## 🚀 Introduction
 
