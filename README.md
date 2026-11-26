@@ -359,6 +359,8 @@ In this module, you will explore the foundational techniques and tools that enab
 |[**✅🌟60-Developing LLM Applications with LangChain**](https://www.coursera.org/organizations/pakistan/learn/developing-llm-applications-with-langchain?afsrc=1&irclickid=RZwSoFXFExyZTfw33IVUpxatUkrUJ7V2GQ0Wyo0&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545_)|by NVIDIA, NeMo Training Resources|Pending
 |[**✅🌟60- Getting Started with Vector Databases and AI Embeddings**](https://www.coursera.org/organizations/pakistan/learn/packt-getting-started-with-vector-databases-and-ai-embeddings-mmi6s?utm_source=impact&utm_campaignid=thecleverprogrammer&utm_content=b2c&irclickid=RZwSoFXFExyZTfw33IVUpxatUkrUJ4T3GQ0Wyo0&afsrc=1&utm_campaign=3401872&irgwc=1&utm_medium=partners&utm_term=14726_CR_1164545_)|by NVIDIA, NeMo Training Resources|Pending|
 |[**✅🌟60-Advanced RAG with Vector Databases and Retrievers**](https://www.coursera.org/organizations/pakistan/learn/advanced-rag-with-vector-databases-and-retrievers?utm_source=impact&utm_campaignid=thecleverprogrammer&utm_content=b2c&irclickid=RZwSoFXFExyZTfw33IVUpxatUkrUJ9wOGQ0Wyo0&afsrc=1&utm_campaign=3401872&irgwc=1&utm_medium=partners&utm_term=14726_CR_1164545_)|by NVIDIA, NeMo Training Resources|Pending|
+|[**✅🌟Generative AI Advanced Fine-Tuning for LLMs**](https://www.coursera.org/learn/generative-ai-advanced-fine-tuning-for-llms?irclickid=RwdUCuXvfxyZRr-U1sVnd0wOUkrU5LSXGQ0gUM0&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545__)|by NVIDIA, NeMo Training Resources|Pending|
+
 
 
 ##  🔹Chapter2: - **Important Website**
